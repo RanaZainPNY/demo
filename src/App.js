@@ -18,6 +18,10 @@ function App() {
             <th>Id</th>
             <th>Name</th>
           </tr>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+          </tr>
         </thead>        
       </table>
     </div>
