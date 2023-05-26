@@ -14,7 +14,20 @@ function App() {
             <th>Id</th>
             <th>Name</th>
           </tr>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+          </tr>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+          </tr>
         </thead>        
+        <tbody>
+          <tr>
+            <td>TAble body data</td>
+          </tr>
+        </tbody>
       </table>
     </div>
   );
