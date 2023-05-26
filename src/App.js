@@ -8,6 +8,14 @@ function App() {
     <div>
       <Carousel/>
       <Signup/>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+          </tr>
+        </thead>        
+      </table>
     </div>
   );
 }
