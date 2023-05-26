@@ -8,6 +8,7 @@ function App() {
     <div>
       <Carousel/>
       <Signup/>
+      <Signup/>
     </div>
   );
 }
