@@ -23,6 +23,11 @@ function App() {
             <th>Name</th>
           </tr>
         </thead>        
+        <tbody>
+          <tr>
+            <td>TAble body data</td>
+          </tr>
+        </tbody>
       </table>
     </div>
   );
